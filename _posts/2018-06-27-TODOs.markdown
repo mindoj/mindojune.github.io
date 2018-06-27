@@ -1,0 +1,9 @@
+---
+layout: article
+title: Document - Writing Posts
+mathjax: true
+---
+
+0. Customize
+1. Upload CV
+2. Upload Portfolio & Projects
