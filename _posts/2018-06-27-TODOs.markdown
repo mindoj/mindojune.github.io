@@ -2,6 +2,7 @@
 layout: article
 title: TODOs
 mathjax: true
+comments: true
 ---
 
 0. Customize
