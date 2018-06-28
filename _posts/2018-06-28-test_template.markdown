@@ -6,6 +6,10 @@ comments: true
 * 유튜브 비디오 링크 테스트
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nv0peny62q4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+* 수식 테스트
+
+$$ f(x) = 2x^4 + 7x + 11 $$
+
 * 머메이드 테스트 
 ```mermaid
 graph TB;
