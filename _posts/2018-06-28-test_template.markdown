@@ -20,7 +20,7 @@ comments: true
 
 * 블록 인용
 
-> Track and save allegedly being a counterrevolutionary not only the newlines.
+> Track and save allegedly being a counterrevolutionary not only the newlines
 > in which something is part of a bending movement.
 
 
