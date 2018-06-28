@@ -11,7 +11,7 @@ comments: true
 ![image1](/assets/images/IMG_0131.JPG "image1")
 
 
-![image2](/_includes/svg/logo.svg "image2")
+![image2](/assets/images/logo.svg "image2")
 
 
 * 테이블
