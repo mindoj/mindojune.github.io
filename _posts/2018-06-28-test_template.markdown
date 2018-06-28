@@ -7,10 +7,10 @@ comments: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nv0peny62q4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * 이미지 삽입 테스트
-![img1](https://github.com/mindojune/mindojune.github.io/blob/master/assets/images/IMG_0131.JPG "image1")
+![전등](https://github.com/mindojune/mindojune.github.io/blob/master/assets/images/IMG_0131.JPG "image1")
 
 * 수식 테스트
-$$ f(x) = 2x^4 + 7x + 11 $$
+$$ f(x) = 2x^4 + 7x + 13 $$
 
 * 머메이드 테스트 
 ```mermaid
