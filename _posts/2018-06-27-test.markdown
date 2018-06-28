@@ -7,3 +7,4 @@ comments: true
 
 test test
 
+$$ f(x) = \lambda  $$
