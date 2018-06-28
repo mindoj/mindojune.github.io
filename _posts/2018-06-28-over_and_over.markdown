@@ -1,9 +1,6 @@
 ---
 layout: article
 title: over and over
-mathjax: true
-mermaid: true
-chart: true
 comments: true
 ---
 
