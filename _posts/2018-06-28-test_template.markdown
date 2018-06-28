@@ -10,6 +10,19 @@ comments: true
 
 ![image1](/assets/images/IMG_0131.JPG "image1")
 
+* 테이블
+
+| *sar*        | **pab**           | **_Coj_**  |
+| ------------- |:-------------:| -----:|
+| _fish_      | ~~redac~~ | 4 |
+| fri      | warq      |   112.3 |
+| bedat | pomog      |    331.2 |
+
+* 블록 인용
+
+> Track and save allegedly being a counterrevolutionary not only the newlines.
+> in which something is part of a bending movement.
+
 
 * 수식 
 $$ f(x) = 2x^4 + 7x + 13 $$
