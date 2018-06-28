@@ -72,7 +72,9 @@ layout: base
 
               {%- include article-info.html -%}
               <div class="js-article-content">{{ content }}</div>
-
+              
+              {% include comments.html %}
+              
               {%- if jekyll.environment != "development" and page.comment != false -%}
                 <section class="page__comment">{%- include comment.html -%}</section>
               {%- endif -%}
@@ -85,7 +87,7 @@ layout: base
       {%- endif -%}
       </div>
       
-      {% include comments.html %}
+      
       
       <div class="page__footer">{%- include footer.html -%}</div>
 
