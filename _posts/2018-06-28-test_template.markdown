@@ -10,6 +10,8 @@ comments: true
 
 ![image1](/assets/images/IMG_0131.JPG "image1")
 
+![image2](/_includes/svg/IMG_0325.svg "image2")
+
 * 테이블
 
 | *sar*        | **pab**           | **_Coj_**  |
