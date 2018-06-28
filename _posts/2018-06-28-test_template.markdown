@@ -1,20 +1,20 @@
 ---
 layout: article
-title: test
+title: test/boilerplate
 comments: true
 ---
-* 유튜브 비디오 링크 테스트
+* 유튜브 비디오 링크 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nv0peny62q4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-* 이미지 삽입 테스트
+* 이미지 삽입 
 
 ![image1](/assets/images/IMG_0131.JPG "image1")
 
 
-* 수식 테스트
+* 수식 
 $$ f(x) = 2x^4 + 7x + 13 $$
 
-* 머메이드 테스트 
+* 머메이드  
 ```mermaid
 graph TB;
     A[독일전 한국 승리]
@@ -26,7 +26,7 @@ graph TB;
     C--no-->B;
     C--yes-->D
 ```
-* 차트 테스트  
+* 차트   
 ```chart
 {
   "type": "line",
