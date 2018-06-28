@@ -10,8 +10,6 @@ comments: true
 
 ![image1](/assets/images/IMG_0131.JPG "image1")
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
 
 * 수식 테스트
 $$ f(x) = 2x^4 + 7x + 13 $$
