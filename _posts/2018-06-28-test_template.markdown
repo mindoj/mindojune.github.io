@@ -1,6 +1,6 @@
 ---
 layout: article
-title: over and over
+title: test
 comments: true
 ---
 * 유튜브 비디오 링크 테스트
