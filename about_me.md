@@ -1,4 +1,4 @@
-<!--- if html
+<!--- 
 ---
 layout: page
 titles:
