@@ -147,14 +147,14 @@ exclude:
   - /vendor
 
 #defaults:
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      license: true
-#      aside:
-#        toc: true
-#      pageview: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      license: true
+      aside:
+        toc: true
+      pageview: true
 
 
 ## => Plugins
@@ -170,16 +170,4 @@ plugins:
 paginate: 8
 
 
-# for tag
-collections:
-  tags:
-    output: true
-    permalink: /tags/:path/
-
-defaults:
-  - scope:
-      path: ''
-      type: tags
-    values:
-      layout: tag
 
