@@ -2,6 +2,7 @@
 layout: article
 title: test/boilerplate
 comments: true
+tag: test
 ---
 
 t6
