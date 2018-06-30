@@ -166,3 +166,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+
+# pagination
+paginate: 8
