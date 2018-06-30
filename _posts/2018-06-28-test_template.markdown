@@ -8,7 +8,7 @@ comments: true
 
 * 이미지 삽입 
 
-![image0](https://photos-5.dropbox.com/t/2/AABbU55B-zG_V-YxWqurlmk7MFFV59ieoqnw6YSz1GlIow/12/41622997/jpeg/32x32/1/_/1/2/IMG_0302.JPG/EKv85B8YrZ0dIAcoBw/reVPyT_REHmntgn7kYQCRejEkS_CziCDnENfyPJhH58%2CD2Am4C6Os96T6cKA2oymf0vyCzqVTAsob4def-hEWOg?size=2048x1536&size_mode=3 "image0")
+![image0](https://photos-2.dropbox.com/t/2/AAAabzJMhMfWIXXYY7Q1Xbg2Of_Smkc4hGrD0sQhck9iOg/12/41622997/jpeg/32x32/1/_/1/2/IMG_0332.JPG/EKv85B8YrZ0dIAcoBw/Llcqhua06shUNuv_25b0n2rublv4Dgofw79xFNE7v5c%2CCeylPHrxYIYSi28mrOUD0fI4UOQMishRtktXlPF3fgY%2CEzCi2Cmw1lUKVnqzki0m53D5S2wRWrGEEnLMjqZxMj8?size=2048x1536&size_mode=3 "image0")
 
 ![image1](/assets/images/IMG_0131.JPG "image1")
 
