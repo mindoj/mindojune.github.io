@@ -1,6 +1,6 @@
 ---
 layout: article
-title: test/boilerplate
+title: t2
 comments: true
 ---
 
