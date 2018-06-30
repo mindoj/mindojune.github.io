@@ -120,7 +120,7 @@ leancloud:
 ## => Analytics
 ##############################
 ## Google Analytics
-ga_tracking_id: # Google Analytics id for the site
+ga_tracking_id: UA-121680114-1 # Google Analytics id for the site
 ga_anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
