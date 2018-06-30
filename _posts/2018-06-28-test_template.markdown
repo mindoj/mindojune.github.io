@@ -8,6 +8,8 @@ comments: true
 
 * 이미지 삽입 
 
+![image0](https://www.dropbox.com/s/pt5wym4u89ppjme/IMG_0302.JPG?dl=0 "image0")
+
 ![image1](/assets/images/IMG_0131.JPG "image1")
 
 
