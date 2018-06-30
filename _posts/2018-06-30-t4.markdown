@@ -1,0 +1,7 @@
+---
+layout: article
+title: test/boilerplate
+comments: true
+---
+
+t4
