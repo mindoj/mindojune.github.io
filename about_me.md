@@ -1,9 +1,11 @@
+<!--- if html
 ---
 layout: page
 titles:
-  en: About Blog
+  en: About Me
 show_title: true
 ---
+--->
 
 ## Dojune
 
