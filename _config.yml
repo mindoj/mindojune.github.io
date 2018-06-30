@@ -19,7 +19,7 @@
 text_color_theme: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 url: # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: # does not include hostname
-title: Dojune's blog
+title: Dojune's Blog
 description: > # this means to ignore newlines until "Language & timezone"
   # My blog
   
@@ -41,8 +41,6 @@ author:
   github: # your GitHub username
   linkedin: # your Linkedin username
   googleplus: # your Google+ username
-  weibo: # your Weibo username
-  douban: # your Douban username
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
