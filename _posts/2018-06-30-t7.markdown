@@ -2,7 +2,7 @@
 layout: article
 title: test/boilerplate
 comments: true
-tag: test
+tags: test
 ---
 
 t7
