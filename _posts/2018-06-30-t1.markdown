@@ -2,6 +2,7 @@
 layout: article
 title: test/boilerplate
 comments: true
+tags: tagtest
 ---
 
 t1
