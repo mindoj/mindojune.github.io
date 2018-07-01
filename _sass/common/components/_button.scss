@@ -123,12 +123,16 @@
 }
 
 .button--pill {
+  /*
   border-radius: 2rem;
+  */
   @extend .button--md;
 }
 
 .button--rounded {
+  /*
   border-radius: map-get($base, border-radius);
+  */
   @extend .button--md;
 }
 
@@ -136,7 +140,9 @@
   @include flexbox();
   @include justify-content(center);
   @include align-items(center);
+  /*
   border-radius: 50%;
+  */
   @extend .button--md;
 }
 
