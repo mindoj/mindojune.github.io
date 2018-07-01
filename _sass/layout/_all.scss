@@ -13,7 +13,9 @@
       width: 100%;
     }
     & > input {
+      /*
       border-radius: 2rem;
+      */
       padding: .2rem 1.8rem;
       @include transition(box-shadow map-get($animation, duration) map-get($animation, timing-function));
       -webkit-appearance: none; /* fix iOS don't display box-shadow properly */
