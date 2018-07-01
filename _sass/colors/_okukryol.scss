@@ -27,7 +27,7 @@ $text-color-d:     $text-color-theme-light-d;
 $text-color:       $text-color-theme-light;
 $text-color-l:     $text-color-theme-light-l;
 
-$text-background-color: rgba(208, 176, 176, 1.0);
+$text-background-color: rgba(#000, 0.5);
 
 // border and shadow colors
 $border-color:     mix(#fff, $background-color, 20%);
