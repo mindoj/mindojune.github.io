@@ -124,8 +124,8 @@ leancloud:
 analytics:
   provider: google
   google:
-    tracking_id: UA-121680114-1
-    anonymize_ip: false
+    tracking_id: UA-121680114-1 
+    anonymize_ip: true
 
 ## => Build
 ##############################
