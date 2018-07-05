@@ -122,7 +122,7 @@ analytics:
 
   ## Google Analytics
   google:
-    tracking_id : UA-121680114-1  # Google Analytics id for the site
+    tracking_id : "UA-121680114-1"  # Google Analytics id for the site
     anonymize_ip: true # Anonymize IP tracking for Analytics
 
 
