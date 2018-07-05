@@ -93,7 +93,7 @@ sources: # bootcdn (default), unpkg
 ##############################
 ## Disqus
 disqus:
-  shortname: # the Disqus shortname for the site
+  shortname: https-mindojune-github-io # the Disqus shortname for the site
 
 ## Gitalk
 # please refer to https://github.com/gitalk/gitalk for more info.
