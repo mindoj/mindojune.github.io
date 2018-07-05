@@ -172,7 +172,7 @@ plugins:
 
 
 # pagination
-paginate: 8
+paginate: 10
 
 ## => Analytics
 ##############################
