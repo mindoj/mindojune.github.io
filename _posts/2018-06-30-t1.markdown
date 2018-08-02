@@ -1,8 +1,0 @@
----
-layout: article
-title: t1
-comments: true
-tags: tagtest
----
-
-t1
