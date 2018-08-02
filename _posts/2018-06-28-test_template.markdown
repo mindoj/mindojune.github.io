@@ -7,6 +7,10 @@ tags: tagtest
 * 유튜브 비디오 링크 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nv0peny62q4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+* Soundcloud Embed Test
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/188212367&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
 * 이미지 삽입 
 
 ![image1](/assets/images/IMG_0131.JPG "image1")
