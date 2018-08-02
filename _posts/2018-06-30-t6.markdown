@@ -1,8 +1,0 @@
----
-layout: article
-title: t6
-comments: true
-tag: test
----
-
-t6 1
